@@ -1,0 +1,15 @@
+.banner {
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
+*{
+    font-family: "Poppins", sans-serif;
+    /* overflow: hidden; */
+}
+.first-btn{
+    position: relative;
+    bottom: 50px;
+    left: 380px;
+}
+.end{
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
